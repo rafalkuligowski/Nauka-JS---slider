@@ -1,0 +1,19 @@
+body{
+	background-color:#222222;
+	color:white;
+}
+
+img {
+	width:800px;
+	height:600px;
+}
+#spans {
+	width: 800px;
+	text-align:center;
+}
+#container {
+	width:800px;
+	height:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
